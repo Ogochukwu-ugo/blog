@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Mario's First Blog",
+      "body": "Why do we use it?\nIt is a long established fact that readers will be distracted by a readable content of a page when lookin at its layout.",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Why do we use it?\nIt is a long established fact that readers will be distracted by a readable content of a page when lookin at its layout.",
+      "author": "Yoshi",
+      "id": 2
+    },
+    {
+      "title": "My New Website",
+      "body": "lorem ipsum...",
+      "author": "Ogo",
+      "id": 3
+    },
+    {
+      "title": "Welcome Party",
+      "body": "lorem ipsum...",
+      "author": "Oge",
+      "id": 4
+    }
+  ]
+}
